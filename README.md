@@ -3,9 +3,12 @@ Simple .Zip File Cracking Tool With Own Password List
 
 
 First install Python
-    Windows -https://www.python.org/downloads/
+    Windows -https://www.python.org/downloads/ 
+    
     Linux - sudo apt install python
+    
     Termux -pkg install python -y
+    
   
 Then,
   
