@@ -7,17 +7,18 @@ First install Python
     
     Linux - sudo apt install python
     
+    
     Termux -pkg install python -y
     
   
 Then,
  install following modules
   
-  import tqdm
+     pip install tqdm
   
-  import colorama
+     pip install colorama
   
-  import pyfiglet
+     pip installpyfiglet
   
   
   python Zip_Crack 2.0.py
