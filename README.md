@@ -11,8 +11,15 @@ First install Python
     
   
 Then,
+ install following modules
   
-  pip install requirements.txt
+  import tqdm
+  
+  import colorama
+  
+  import pyfiglet
+  
+  
   python Zip_Crack 2.0.py
   
   
