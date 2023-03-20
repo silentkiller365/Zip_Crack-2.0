@@ -18,7 +18,7 @@ Then,
   
      pip install colorama
   
-     pip installpyfiglet
+     pip install pyfiglet
   
   
   python Zip_Crack 2.0.py
